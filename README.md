@@ -1,4 +1,5 @@
 **Amolitho Projects — Learning, Cybersecurity, Telecommunications & Networking**
+
 Welcome to my main repository! This repo contains all of my personal and academic projects related to computer science, Telecommunications, networking, cybersecurity, and automation.
 
 **Objectives of this repo:**
